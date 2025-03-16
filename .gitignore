@@ -5,7 +5,7 @@
 # Mod jar files
 /build/**
 !/build/libs/
-!/build/libs/macutilsmod-*-*.jar
+!/build/libs/macutilsmod-*.jar
 **/*-sources.jar
 
 /run
