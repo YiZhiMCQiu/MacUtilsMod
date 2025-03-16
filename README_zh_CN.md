@@ -1,7 +1,7 @@
 # MacUtilsMod
 ## 一个在macOS下实用的Minecraft Fabric模组
 
-(English)[/README.md]
+[English](/README.md)
 
 > [!WARNING]
 > 如果系统环境不是macOS，一些功能可能不会工作

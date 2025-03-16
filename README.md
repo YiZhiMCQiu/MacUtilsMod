@@ -1,7 +1,7 @@
 # MacUtilsMod
 ## A utility Minecraft Fabric mod in macOS
 
-(Chinese)[/README_zh_CN.md]
+[中文](/README_zh_CN.md)
 
 > [!WARNING]
 > If system environment is not macOS, some functions may not work.
