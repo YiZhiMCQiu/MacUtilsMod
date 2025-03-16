@@ -4,7 +4,7 @@
     "version": "${version}",
     "name": "Mac Utils",
     "description": "An utility mod in macOS",
-    "authors": [],
+    "authors": [ "YiZhiMCQiu" ],
     "contact": {},
     "license": "All-Rights-Reserved",
     "icon": "assets/mu/icon.png",
