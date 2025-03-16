@@ -1,0 +1,6 @@
+{
+    "toast.rosetta.title": "你正在使用Rosetta",
+    "toast.rosetta.desc": "使用x86 Java可能会导致性能下降，请切换到aarch64 Java。",
+    "key.mu.unlock_mouse": "解锁鼠标指针",
+    "category.mu": "Mac工具"
+}

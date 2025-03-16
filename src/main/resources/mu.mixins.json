@@ -1,0 +1,16 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "cn.yizhimcqiu.macutils.mixin",
+    "compatibilityLevel": "JAVA_21",
+    "mixins": [
+    ],
+    "client": [
+        "MinecraftClientMixin",
+        "fixes.textinput.ChatInputSuggestorMixin",
+        "fixes.textinput.ChatScreenMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}

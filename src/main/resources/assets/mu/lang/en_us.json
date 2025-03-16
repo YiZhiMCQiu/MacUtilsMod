@@ -1,0 +1,6 @@
+{
+    "toast.rosetta.title": "You are using Rosetta",
+    "toast.rosetta.desc": "Using x86 Java may cause performance decline. Please switch to aarch64 Java.",
+    "key.mu.unlock_mouse": "Unlock Mouse",
+    "category.mu": "Mac Utils"
+}
