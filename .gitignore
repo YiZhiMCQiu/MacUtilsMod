@@ -5,3 +5,5 @@
 /build/*
 !/build/libs/*
 /build/libs/*-sources.jar
+
+/run
