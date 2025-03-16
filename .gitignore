@@ -2,16 +2,10 @@
 
 /.idea
 
-# 忽略 build 目录下的所有内容（包括子目录和文件）
+# Mod jar files
 /build/**
-
-# 排除 build/libs 目录（允许跟踪该目录下的文件）
 !/build/libs/
-
-# 保留 build/libs 中不带 -sources.jar 的 JAR 文件（红框文件）
 !/build/libs/macutilsmod-*-*.jar
-
-# 排除所有 -sources.jar 文件（即使是同名目录下的）
 **/*-sources.jar
 
 /run
